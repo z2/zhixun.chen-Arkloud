@@ -65,11 +65,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>Profile</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>StaticResource</name>
     </types>
-    <version>31.0</version>
+    <version>34.0</version>
 </Package>

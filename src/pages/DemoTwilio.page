@@ -1,0 +1,7 @@
+<apex:page controller="DemoTwilioController">
+<apex:pageblock >
+<apex:form >
+<apex:commandButton value="Send SMS" action="{!sendSMS}"/>
+</apex:form>
+</apex:pageblock>
+</apex:page>
